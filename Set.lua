@@ -1,4 +1,4 @@
 return {
   ["Show"] = true,
-  ["Text"] = "Tested",
+  ["Text"] = "bruh",
 }
